@@ -6,16 +6,7 @@
     "Games": [
 
 
- {
-      "name": "Хаги-Ваги",
-      "version": "0.309.0",
-      "down": "https://ipogo.app/download/ipogo-3.3.1.ipa",
-      "category": "Игры",
-      "icon": "https://iosninja.io/img/ipas/inds.png",
-      "description": "hello world",
-       "bundleID": "com.DebianArch.Scarlet",
-      "changelog": "Ничего нового"
-    },
+
 {
       "name": "Хаги-Ваги",
       "version": "1.0",
