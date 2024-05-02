@@ -27,6 +27,17 @@
       "changelog": "--тут ничего нового",
     "description": "и тут тоже"
     },
+
+        {
+      "name": "PojavLauncer",
+      "version": "1.20.80",
+      "icon": "https://usescarlet.com/icon.png",
+      "down": "https://drive.usercontent.google.com/download?id=1-A0mvuHABwnIt6E1R7gSLlmNijUHnwZr&export=download&authuser=0&confirm=t&uuid=cb42b432-f540-4d0b-88ff-9418c4e7fad0&at=APZUnTUdKdKuR9pKq-bg6yGSf5il:1714616371234",
+      "bundleID": "com.DebianArch.Scarlet",
+      "category": "Игры",
+      "changelog": "--тут ничего нового",
+    "description": "и тут тоже"
+    },
         {
       "name": "FireFox+VPN",
       "version": "1.20.80",
