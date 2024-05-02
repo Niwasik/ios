@@ -9,15 +9,34 @@
 
 {
       "name": "Хаги-Ваги",
-      "version": "1.0",
+      "version": "2.2",
       "icon": "https://usescarlet.com/icon.png",
       "down": "https://drive.usercontent.google.com/download?id=1IBO08p-03rMPobEijmePxhEBkWOUO_24&export=download&authuser=0&confirm=t&uuid=7b388aa1-1744-4b78-9462-4f91b7d2d526&at=APZUnTUQ6I4Zz409U5H_YzrMLs_d:1714612593921",
       "bundleID": "com.DebianArch.Scarlet",
       "category": "Игры",
       "changelog": "--тут ничего нового",
     "description": "и тут тоже"
+    },
+{
+      "name": "Minecraft",
+      "version": "1.20.80",
+      "icon": "https://usescarlet.com/icon.png",
+      "down": "https://drive.usercontent.google.com/download?id=12HtC0D6bHJTsfXFHiY146XHYigRswsDy&export=download&authuser=0&confirm=t&uuid=a64135f5-6a04-4667-b7c4-02c4a7e43ff4&at=APZUnTVMMm-92HnSinQWKZuO2j2E:1714615293571",
+      "bundleID": "com.DebianArch.Scarlet",
+      "category": "Игры",
+      "changelog": "--тут ничего нового",
+    "description": "и тут тоже"
+    },
+        {
+      "name": "FireFox+VPN",
+      "version": "1.20.80",
+      "icon": "https://drive.usercontent.google.com/download?id=1pdemyjm1vHfqauLwox2Y3RdRoTKEXPWP&export=download&authuser=0&confirm=t&uuid=d1c86a31-e010-41aa-a0fb-4618cc15afb5&at=APZUnTWHv5OZ-VqKeJ99t0PooMXA:1714615432409",
+      "down": "",
+      "bundleID": "com.DebianArch.Scarlet",
+      "category": "Приложения",
+      "changelog": "--тут ничего нового",
+    "description": "и тут тоже"
     }
-
 
         
     ]
