@@ -30,8 +30,8 @@
         {
       "name": "FireFox+VPN",
       "version": "1.20.80",
-      "icon": "https://drive.usercontent.google.com/download?id=1pdemyjm1vHfqauLwox2Y3RdRoTKEXPWP&export=download&authuser=0&confirm=t&uuid=d1c86a31-e010-41aa-a0fb-4618cc15afb5&at=APZUnTWHv5OZ-VqKeJ99t0PooMXA:1714615432409",
-      "down": "",
+      "icon": "https://usescarlet.com/icon.png",
+      "down": "https://drive.usercontent.google.com/download?id=1pdemyjm1vHfqauLwox2Y3RdRoTKEXPWP&export=download&authuser=0&confirm=t&uuid=d1c86a31-e010-41aa-a0fb-4618cc15afb5&at=APZUnTWHv5OZ-VqKeJ99t0PooMXA:1714615432409",
       "bundleID": "com.DebianArch.Scarlet",
       "category": "Приложения",
       "changelog": "--тут ничего нового",
