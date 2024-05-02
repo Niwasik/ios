@@ -13,8 +13,8 @@
       "category": "Игры",
       "icon": "https://iosninja.io/img/ipas/inds.png",
       "description": "hello world",
-      "bundleID": "com.nianticlabs.pokemongo",
-      "appstore": "com.nianticlabs.pokemongo"
+       "bundleID": "com.DebianArch.Scarlet",
+      "changelog": "Ничего нового"
     },
 
 
